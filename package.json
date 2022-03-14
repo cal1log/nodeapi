@@ -1,0 +1,28 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "nodemon app.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cal1log/nodeapi.git"
+  },
+  "keywords": [
+    "node",
+    "ai"
+  ],
+  "author": "Orlando Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cal1log/nodeapi/issues"
+  },
+  "homepage": "https://github.com/cal1log/nodeapi#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
